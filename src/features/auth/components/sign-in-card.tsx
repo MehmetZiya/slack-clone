@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { FcGoogle } from 'react-icons/fc'
-import { Password } from '@convex-dev/auth/providers/Password'
 import { useAuthActions } from '@convex-dev/auth/react'
 
 import { Button } from '@/components/ui/button'
